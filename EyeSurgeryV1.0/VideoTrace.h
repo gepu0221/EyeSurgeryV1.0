@@ -1,6 +1,6 @@
 #ifndef VIDEOTRACE_H
 #define VIDEOTRACE_H
-
+//
 #include<iostream>
 #include<fstream>
 #include<vector>
