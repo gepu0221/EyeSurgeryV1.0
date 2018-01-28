@@ -1,0 +1,15 @@
+﻿生成启动时间为 2018/1/28 15:13:01。
+     1>项目“D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\EyeSurgeryV1.0\EyeSurgeryV1.0.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\Debug\EyeSurgeryV1.0.exe" /INCREMENTAL /NOLOGO /LIBPATH:D:\software\ARToolKit\lib /LIBPATH:D:\test\ARDemo\ARDemo\lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_nonfree2410.lib opencv_objdetect2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_videostab2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\Debug\EyeSurgeryV1.0.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\Debug\EyeSurgeryV1.0.lib" /MACHINE:X86 /FORCE:MULTIPLE Debug\EFCHandler.obj
+         Debug\FindEll.obj
+         Debug\VideoTrace.obj
+         "Debug\源.obj"
+     1>LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+     1>EFCHandler.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:LBR”规范)
+         EyeSurgeryV1.0.vcxproj -> D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\Debug\EyeSurgeryV1.0.exe
+     1>已完成生成项目“D:\postgradutate\眼球手术\code\EyeSurgeryV1.0\EyeSurgeryV1.0\EyeSurgeryV1.0.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.77
